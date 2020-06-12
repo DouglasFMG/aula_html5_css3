@@ -1,0 +1,27 @@
+body{
+    background:rgb(116, 127, 219); 
+    margin-left:100px; 
+}
+header{
+    margin-top:70px;
+}
+
+
+h1{
+    color:rgb(201, 201, 238);
+    font-family:fantasy;
+    
+}
+h2 {
+font-family:fantasy
+
+}
+
+p {
+    font-size:18px;
+
+}
+
+img{
+    margin-bottom: 20px;
+}
